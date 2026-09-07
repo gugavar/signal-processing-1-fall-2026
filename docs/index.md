@@ -9,11 +9,11 @@
 - 📚 [3] [Applied Digital Signal Processing — Manolakis, Ingle](https://drive.google.com/file/d/1YYscDNmIH8vevXKjKUHAHAWHPemjs2-e/view?usp=drive_link)
 - 📚 [DSP First](https://drive.google.com/file/d/1F99ZgbkheFOYFPf4_o-iChafVqYm-Tyr/view?usp=sharing)
 
-### ამონახსნები
+### ამოხსნები
 
-- ✅ [1] [Discrete Time Signal Processing — ამონახსნები](https://drive.google.com/file/d/1C74Jm6uUUa_pUx7VfVtefjMOFdmmksEB/view?usp=sharing)
-- ✅ [2] [Digital Signal Processing Using MATLAB — ამონახსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
-- ✅ [3] [Applied Digital Signal Processing — ამონახსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
+- ✅ [1] [Discrete Time Signal Processing — ამოხსნები](https://drive.google.com/file/d/1C74Jm6uUUa_pUx7VfVtefjMOFdmmksEB/view?usp=sharing)
+- ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
+- ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
 ### ლექცია 1 — დისკრეტული დროის სიგნალები და კომპლექსური ექსპონენციალები
 
