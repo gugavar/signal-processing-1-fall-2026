@@ -15,6 +15,14 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 2 — დისკრეტული დროის სიგნალები, დელტა და ჰევისაიდის მიმდევრობები, ციფრული სიხშირე
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1omeOhYctsZYl4BfBvOqmreWO4tPswnrU/view?usp=drive_link)
+- 📊 [სლაიდები](https://drive.google.com/file/d/1aS7BNxBEljSvUvVA-pYeGjjhSLoWXCiP/view?usp=sharing)
+- 📖 წიგნიდან [1] წაიკითხეთ თავები 2.0–2.1, გვერდები 9–16. ასევე, შეგიძლიათ წაიკითხოთ პირველი თავი, რომელიც უბრალოდ შესავალია.
+- 📝 ამოხსენით/გააკეთეთ სლაიდების ბოლო ორ გვერდზე მოცემული ამოცანები.
+- 📝 [ამოცანების](https://drive.google.com/file/d/12PsxMPfSZ8c-BUPXkifoBccJrOljaViF/view?usp=sharing) ფაილიდან ამოხსენით ამოცანები გვერდებზე 3–6.
+
 ### ლექცია 1 — დისკრეტული დროის სიგნალები და კომპლექსური ექსპონენციალები
 
 - 📄 [საგნის სილაბუსი](https://drive.google.com/file/d/1LDQy_v9hsBkDCRCJ6Tulr1iZMwyMaY5V/view?usp=drive_link)
