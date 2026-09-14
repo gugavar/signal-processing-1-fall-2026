@@ -17,7 +17,7 @@
 
 ### ლექცია 2 — დისკრეტული დროის სიგნალები, დელტა და ჰევისაიდის მიმდევრობები, ციფრული სიხშირე
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1omeOhYctsZYl4BfBvOqmreWO4tPswnrU/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1obSnrfC673OEWnQlinTLlkTpOLWpwWty/view?usp=drive_link)
 - 📊 [სლაიდები](https://drive.google.com/file/d/1aS7BNxBEljSvUvVA-pYeGjjhSLoWXCiP/view?usp=sharing)
 - 📖 წიგნიდან [1] წაიკითხეთ თავები 2.0–2.1, გვერდები 9–16. ასევე, შეგიძლიათ წაიკითხოთ პირველი თავი, რომელიც უბრალოდ შესავალია.
 - 📝 ამოხსენით/გააკეთეთ სლაიდების ბოლო ორ გვერდზე მოცემული ამოცანები.
