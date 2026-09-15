@@ -15,6 +15,12 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 3 — დისკრეტული დროის სისტემები, წრფივობა, იდეალური დაყოვნება, მცოცავი საშუალო და სუმატორი
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1IWZ4NHM1aN_56HvHkbnGXwHC0L6rHCcg/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.2, გვერდები 17–20.
+- 📝 დავალება: [ამოცანების](https://drive.google.com/file/d/12PsxMPfSZ8c-BUPXkifoBccJrOljaViF/view?usp=sharing) ფაილიდან ამოხსენით ამოცანები გვერდებზე 4–6.
+
 ### ლექცია 2 — დისკრეტული დროის სიგნალები, დელტა და ჰევისაიდის მიმდევრობები, ციფრული სიხშირე
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1obSnrfC673OEWnQlinTLlkTpOLWpwWty/view?usp=drive_link)
