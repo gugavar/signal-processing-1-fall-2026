@@ -17,7 +17,7 @@
 
 ### ლექცია 3 — დისკრეტული დროის სისტემები, წრფივობა, იდეალური დაყოვნება, მცოცავი საშუალო და სუმატორი
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1IWZ4NHM1aN_56HvHkbnGXwHC0L6rHCcg/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1kmDVJaj6MiFcn96SyBDacAaTVGwkShOk/view?usp=drive_link)
 - 📖 წიგნიდან [1] წაიკითხეთ თავი 2.2, გვერდები 17–20.
 - 📝 დავალება: [ამოცანების](https://drive.google.com/file/d/12PsxMPfSZ8c-BUPXkifoBccJrOljaViF/view?usp=sharing) ფაილიდან ამოხსენით ამოცანები გვერდებზე 4–6.
 
