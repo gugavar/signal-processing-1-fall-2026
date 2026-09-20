@@ -15,6 +15,14 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 4 — წრფივი დროით-ინვარიანტული (LTI) სისტემები, იმპულსური მახასიათებელი და კონვოლუცია
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1h45CzV7tolgVD2o_xyqFZs7BZMnsNDKb/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.3, გვერდები 23–30.
+- 📖 წიგნიდან [3] წაიკითხეთ თავი 2.4, გვერდები 37–45.
+- 📝 [LTI სისტემები და კონვოლუცია — დავალება](https://drive.google.com/file/d/1UWOTcilBXXgo7_ba3Tqvq7cHZ504_375/view?usp=drive_link)
+
+
 ### ლექცია 3 — დისკრეტული დროის სისტემები, წრფივობა, იდეალური დაყოვნება, მცოცავი საშუალო და სუმატორი
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1kmDVJaj6MiFcn96SyBDacAaTVGwkShOk/view?usp=drive_link)
