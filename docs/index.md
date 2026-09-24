@@ -15,6 +15,20 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 6 — LTI სისტემების თვისებები და წრფივი მუდმივკოეფიციენტებიანი სხვაობიანი განტოლებები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1fe88elS5TUzfrcX2N7hxLaTj2SGtXaXi/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.5, გვერდები 35–39.
+- 📖 წიგნიდან [3] წაიკითხეთ თავი 2.6, გვერდები 61–69.
+- 📝 დავალება: წიგნიდან [1] ამოხსენით ამოცანები: 2.29, 2.30, 2.31, 2.15, 2.18, 2.19, 2.20.
+
+### ლექცია 5 — წრფივი დროით-ინვარიანტული (LTI) სისტემების თვისებები: სტაბილურობა, კაუზალურობა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1cAWNh9JLsIhAgSGZ31tRS41TPz2Vt9DX/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.4, გვერდები 30–35.
+- 📖 წიგნიდან [3] წაიკითხეთ თავი 2.5, გვერდები 45–48.
+- 📝 დავალება: [ამოცანების](https://drive.google.com/file/d/12PsxMPfSZ8c-BUPXkifoBccJrOljaViF/view?usp=sharing) ფაილიდან ამოხსენით ამოცანები გვერდებზე 7–8.
+
 ### ლექცია 4 — წრფივი დროით-ინვარიანტული (LTI) სისტემები, იმპულსური მახასიათებელი და კონვოლუცია
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1h45CzV7tolgVD2o_xyqFZs7BZMnsNDKb/view?usp=drive_link)
