@@ -15,6 +15,18 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 8 — დისკრეტული სისტემების და სიგნალების სიხშირული წარმოდგენის მეთოდები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1X4aavyBJ0mf60vfyB7amw7TIYMCC2oxz/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.7, გვერდები 48–54.
+- 📝 [დავალება](https://drive.google.com/file/d/1IhkPgNUzmUPkPN3lKWiwwsjknDh0a7P7/view?usp=drive_link)
+- 📝 [DSP First](https://drive.google.com/file/d/1F99ZgbkheFOYFPf4_o-iChafVqYm-Tyr/view?usp=sharing) წიგნიდან, თავი 7: 3, 4, 6, 7, 11, 12, 13.
+- 📚 წინა წლების ქვიზი 1: [ქვიზი 1_1](https://docs.google.com/document/d/1XBAlTQkET3ArBiZfWAG-ilhSWijXncIl/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [ქვიზი 1_2](https://docs.google.com/document/d/1wN8--kPbf45OKg2rT2NJHzU9Kelv3EY0/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
+### ლექცია 7 — დისკრეტული სისტემების და სიგნალების სიხშირული წარმოდგენის მეთოდები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1RhcymBsNVBvE4MjQByka6sMNKnkCNWzv/view?usp=drive_link)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.6, გვერდები 40–44.
 
 ### ლექცია 5-6 — წრფივი დროით-ინვარიანტული (LTI) სისტემების თვისებები: სტაბილურობა, კაუზალურობა, სხვაობიანი განტოლებები
 
