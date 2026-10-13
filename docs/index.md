@@ -15,6 +15,17 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 11 — დისკრეტული სისტემები: აუდიო სიგნალის bandpass ფილტრით დამუშავება
+
+- 🧮 ფაილები: [MATLAB-ის კოდი](https://drive.google.com/file/d/1LgynlnEh5TIfw41ckV80TSJPb1rklGE5/view?usp=drive_link); [დასამუშავებელი აუდიო ფაილი](https://drive.google.com/file/d/1FUuXYq6ted7_X5RTkBvmj9Ssse_bMoe1/view?usp=drive_link); [DTFT.m](https://drive.google.com/file/d/1awzth5-sQvQppXE_V086lrZiPad5QDs3/view?usp=drive_link);
+- 📚 კიდევ ორი წინა წლების პირველი ქვიზი: [ქვიზი1_3](https://docs.google.com/document/d/1EzxJweBHGLUV-rhCHIVLhNz0nwQncH9K/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [ქვიზი1_4](https://docs.google.com/document/d/1Zddln5BhaNEoBHUCycLzxpicAYtzCjy8/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
+### ლექცია 9/10 — დისკრეტული ფურიე გარდაქმნის თვისებები და თეორემები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1tcnQysBsT--OJYDx_Y5NwtyXShiYTzFi/view?usp=drive_link)
+- 📝 [დავალება](https://drive.google.com/file/d/10WmVunFIEN5EJWM-bcC6lnZGRM5jVKlK/view?usp=sharing) — მე-7 ამოცანა შემდეგი კვირისთვის გადადეთ.
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 2.8, გვერდები 54–57 და თავი 2.9, გვერდები 58–63.
+
 ### ლექცია 8 — დისკრეტული სისტემების და სიგნალების სიხშირული წარმოდგენის მეთოდები
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1X4aavyBJ0mf60vfyB7amw7TIYMCC2oxz/view?usp=drive_link)
