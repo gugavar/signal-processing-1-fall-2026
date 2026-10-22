@@ -15,6 +15,27 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
+### ლექცია 14 — Z-გარდაქმნა და შებრუნებული Z-გარდაქმნა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1zjxxwKgfbf7Gpolsgx_0fzxM6hjRwEsi/view?usp=drive_link)
+- 🧪 [პოლუსების და ნულების დასახატი დემო](https://drive.google.com/file/d/15Ygn96_608OGs-Lg8DRxewTPwyTAWuyg/view?usp=drive_link) — გაშვებისთვის unzip გაუკეთეთ და გახსენით `pezdemo.m` ფაილი.
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 3.3, გვერდები 115–123.
+- 📖 ასევე, გადახედეთ [3] წიგნის მესამე თავს.
+- 📚 წინა წლების ქვიზი 2: [ქვიზი2_1](https://docs.google.com/document/d/1e4z25UyGkPEA7aWOM0kA3ZXSabmzYoQo/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [ქვიზი2_2](https://docs.google.com/document/d/1Sw4fqp6ksSIED7CkOUF-3m9hQ35kHc7z/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
+### ლექცია 13 — Z-გარდაქმნა და კრებადობის არე (ROC)
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1ofLt3QcZWGOl_XA4G3ZsTdDE66vDnrVk/view?usp=drive_link)
+- 📝 [დავალება](https://drive.google.com/file/d/1nTNIYI1w-Tz4KQGGhTD3FweMJ5tQEx4o/view?usp=sharing)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 3.2, გვერდები 110–114.
+- 📖 ასევე, გადახედეთ [3] წიგნის მესამე თავს.
+
+### ლექცია 12 — Z-გარდაქმნა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1YS7Wm577eLadgsviXFS-YYlNGu5bULfu/view?usp=drive_link)
+- 📝 [დავალება](https://drive.google.com/file/d/1ZWQxS9PIVPgbNWrnkXuJXjk2aWCMzS70/view?usp=sharing)
+- 📖 წიგნიდან [1] წაიკითხეთ თავი 3.1, გვერდები 99–104.
+
 ### ლექცია 11 — დისკრეტული სისტემები: აუდიო სიგნალის bandpass ფილტრით დამუშავება
 
 - 🧮 ფაილები: [MATLAB-ის კოდი](https://drive.google.com/file/d/1LgynlnEh5TIfw41ckV80TSJPb1rklGE5/view?usp=drive_link); [დასამუშავებელი აუდიო ფაილი](https://drive.google.com/file/d/1FUuXYq6ted7_X5RTkBvmj9Ssse_bMoe1/view?usp=drive_link); [DTFT.m](https://drive.google.com/file/d/1awzth5-sQvQppXE_V086lrZiPad5QDs3/view?usp=drive_link);
