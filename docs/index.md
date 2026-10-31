@@ -15,9 +15,23 @@
 - ✅ [2] [Digital Signal Processing Using MATLAB — ამოხსნები](https://drive.google.com/file/d/1nd2ObU4cImYh0R412KcQoaTxOTonJioe/view?usp=sharing)
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
-### ლექცია 14 — Z-გარდაქმნა და შებრუნებული Z-გარდაქმნა
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1zjxxwKgfbf7Gpolsgx_0fzxM6hjRwEsi/view?usp=drive_link)
+
+### ლექცია 15/16 — ჭრილოვანი ფილტრები და რეზონატორები: ფილტრების ანალიზი Z-გარდაქმნის გამოყენებით
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1xxlwAUzemlmZZKS28rOGA45nYCP1scx2/view?usp=drive_link)
+- 📊 [სლაიდები](https://drive.google.com/file/d/1T6mb9-0ml3_muyRIceBzgJ_btSSbK-c_/view?usp=drive_link) — მოცემულია სხვადასხვა ტიპის სისტემების მოკლე აღწერებიც.
+- 🧮 [ჭრილოვანი ფილტრები  და რეზონატორები + სინუსოიდის გენერირების სისტემის კოდი](https://drive.google.com/file/d/1Fxn3euATYpoh0hubQaewJHlYnH-mVb87/view?usp=drive_link)
+
+- 📝 დავალება:
+    - [DSP First](https://drive.google.com/file/d/1F99ZgbkheFOYFPf4_o-iChafVqYm-Tyr/view?usp=sharing) წიგნიდან, თავი 9: 3, 4, 5, 6, 7, 8, 9, 11, 12.
+  - წიგნიდან [1] წაიკითხეთ თავი 3.4, გვერდები 124–131;
+  - ამოცანები წიგნიდან [1]: 3.8, 3.12, 3.13, 3.14, 3.15, 3.16, 3.17, 3.21;
+  - მინიშნება: 3.13-ში გაშალეთ სინუს წევრი ხარისხობრივ მწკრივად.
+
+### ლექცია 14 — Z-გარდაქმნა და შებრუნებული Z-გარდაქმნა + თვისებები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1hOwcGv6iLtJZH8RvcwucEDGbS1pSKf2V/view?usp=drive_link)
 - 🧪 [პოლუსების და ნულების დასახატი დემო](https://drive.google.com/file/d/15Ygn96_608OGs-Lg8DRxewTPwyTAWuyg/view?usp=drive_link) — გაშვებისთვის unzip გაუკეთეთ და გახსენით `pezdemo.m` ფაილი.
 - 📖 წიგნიდან [1] წაიკითხეთ თავი 3.3, გვერდები 115–123.
 - 📖 ასევე, გადახედეთ [3] წიგნის მესამე თავს.
