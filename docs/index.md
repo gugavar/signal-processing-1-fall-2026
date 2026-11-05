@@ -16,6 +16,21 @@
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
 
+- 📚 წინა წლების გამოცდები: [შუალედური_1](https://docs.google.com/document/d/1M1yqHrWNsZrVEvy55gnzi4oEhd8c_lna/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [შუალედური_2](https://docs.google.com/document/d/1SweS0--o__YsS6eOLYvI8NT5p1jciQ3A/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [შუალედურის აღდგენა 2024](https://docs.google.com/document/d/1NDTnQqp6i3t4a53o3B-yI4NTfehJst5s/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
+
+### ლექცია 18 — დისკრეტიზაციის სიხშირული წარმოდგენის მეთოდები და ვიწროზოლოვანი სიგნალები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1UP_uzGClPglqCYTVBR5lHIgZjXvNfvM8/view?usp=drive_link)
+- 🧮 [fvtool, zplane, impz, freqz კოდი](https://drive.google.com/file/d/1Xa5CjJ-TwKRLW3FMPmedChrolgKMAV_u/view?usp=drive_link)
+- 📝 დავალება: ლექცია 17-ში მითითებული ამოცანები.
+
+### ლექცია 17 — უწყვეტი დროის სიგნალების დისკრეტიზაცია
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1pLLIPx7Ri4ggjOB570AFBScc58Ec6ErB/view?usp=drive_link)
+- 📝 დავალება:
+  - წიგნიდან [1] წაიკითხეთ თავები 4.1 და 4.2, გვერდები 153–162;
+  - წიგნიდან [3] წაიკითხეთ თავი 6.1, გვერდები 293–297;
+  - ამოცანები წიგნიდან [1]: 4.1, 4.2, 4.3, 4.4, 4.5.
 
 ### ლექცია 15/16 — ჭრილოვანი ფილტრები და რეზონატორები: ფილტრების ანალიზი Z-გარდაქმნის გამოყენებით
 
