@@ -16,6 +16,27 @@
 - ✅ [3] [Applied Digital Signal Processing — ამოხსნები](https://drive.google.com/file/d/1bpyNl1Ugp6BYxB6EaGVTJMIYeHz6Em-E/view?usp=sharing)
 
 
+
+
+### ლექცია 20 — უწყვეტი დროის სიგნალების დამუშავება დისკრეტულ დროში + იმპულსის ინვარიანტულობა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1TWLFl5D7wnIPxbfHbRDAXVsTDffP75g3/view?usp=drive_link)
+- 📝 დავალება:
+  - წიგნიდან [1] წაიკითხეთ თავი 4.4, გვერდები 167–175 და თავი 4.5, გვერდები 173–175;
+  - ამოცანები წიგნიდან [1]: 4.51, 4.22, 4.30, 4.31, 4.20, 4.24, 4.26, 4.28;
+  - ამოცანები წიგნიდან [3]: 6.1, 6.2, 6.3, 6.16, 6.28.
+
+
+### ლექცია 19 — ანალოგური სიგნალის რეკონსტრუქცია მისი ანათვალებიდან
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1CxZTV8oQEcOORW8JhZzWCy6p2GygSCOj/view?usp=drive_link)
+- 🧮 [sinc ინტერპოლაციის დემოს კოდი](https://drive.google.com/file/d/1xGyb15PiGfHRvyJDC40VRhfRh6jEAGa_/view?usp=share_link)
+- 📝 დავალება:
+  - წიგნიდან [1] წაიკითხეთ თავი 4.3, გვერდები 163–166;
+  - ამოცანები წიგნიდან [1]: 4.6, 4.8, 4.9, 4.10, 4.12, 4.13.
+
+
+
 - 📚 წინა წლების გამოცდები: [შუალედური_1](https://docs.google.com/document/d/1M1yqHrWNsZrVEvy55gnzi4oEhd8c_lna/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [შუალედური_2](https://docs.google.com/document/d/1SweS0--o__YsS6eOLYvI8NT5p1jciQ3A/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link); [შუალედურის აღდგენა 2024](https://docs.google.com/document/d/1NDTnQqp6i3t4a53o3B-yI4NTfehJst5s/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link);
 
 ### ლექცია 18 — დისკრეტიზაციის სიხშირული წარმოდგენის მეთოდები და ვიწროზოლოვანი სიგნალები
