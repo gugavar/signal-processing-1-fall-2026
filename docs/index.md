@@ -18,7 +18,8 @@
 
 ### ლექცია 22/23 — დისკრეტული სიგნალების დისკრეტიზაცია: დაუნსემპლინგი და აფსემპლინგი (+ ინტერპოლაცია)
 
-- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/15_9nwQghbWzQ9TMpVgXPT0zOxCkEkxLJ/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი - სამშაბათი](https://drive.google.com/file/d/1VApd_wDz0xCYs2KG2GMUzb1kcb84WDcN/view?usp=drive_link)
+- 🖥️ [ლექციის სქრინი - ხუთშაბათი](https://drive.google.com/file/d/1rCusCOLf3yyBcxOZRfcMGOIBDsxCn2-h/view?usp=drive_link)
 - 📝 დავალება:
   - წიგნიდან [1] წაიკითხეთ თავი 4.6, გვერდები 179–187 და თავი 4.7, გვერდები 194–197;
   - ამოცანები წიგნიდან [1]: 4.15, 4.17, 4.18, 4.32, 4.33.
